@@ -109,6 +109,7 @@ public class Runner {
                 System.out.println("Thanks for Playing!");
             } else {
                 gameOver = false;
+                bust = false;
             }
         }
     }
